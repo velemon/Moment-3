@@ -55,7 +55,8 @@ Skapa README.md-filen med markdown och ge en kort beskrivning av uppgiften/repos
 **Del 2.2 - Skapa personlig README-fil för din profil**  
 
 Skapa en README-fil med passande innehåll för din profil. Informationen i denna ska då sedan visas längst upp om någon besöker din profil (exempelvis _https://github.com/username_).  
-Att redovisa: Vilken är URL'en till din profil? (Ex _https://github.com/username_)  
+
+**Att redovisa:** Vilken är URL'en till din profil? (Ex _https://github.com/username_)  
  
 Svaren på "Att redovisa"-uppgifterna ovan läggs in i dokumentet för Del 1, gör gärna en underrubrik för dessa.  
 
