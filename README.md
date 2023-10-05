@@ -49,6 +49,7 @@ Gratis-konton räcker utmärkt för uppgiften.
 Skapa ett nytt _remote_ repository på Github, antingen tomt (som bara består av en README.md-fil) eller genom att klona ett existerande projekt. **Gör detta repository publikt.**  
 
 Skapa README.md-filen med markdown och ge en kort beskrivning av uppgiften/repositoriet (formatera med överskrifter, listor och så vidare).  
+
 **Att redovisa:** För att kunna klona ditt repository till min dator behöver jag ha ett specifikt kommando och länk. Vilket? (exmpelvis "_git clone https://github.com/matdah/Exempel_README_i_API.git_")  
 
 **Del 2.2 - Skapa personlig README-fil för din profil**  
